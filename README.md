@@ -45,3 +45,10 @@ You may also see any lint errors in the console.
 ### Prerequisites
 
 - Node.js and npm installed on your machine.
+
+### Installation Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/mukeshlakkakula/flarehomescmpassignment.git
+   ```
